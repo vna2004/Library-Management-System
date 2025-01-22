@@ -1,10 +1,10 @@
-# Library Management System
+# 📖Library Management System
 
-## Project Overview
+## 💎Project Overview
 
 This is a simple Library Management System built using Java Swing (NetBeans) for the graphical user interface (GUI) and MySQL for the database backend. The system allows the library staff to manage books, issue books, return books, track real-time transactions, and maintain records of students and staff.
 
-## Features
+## ⭐Features
 
 - **Book Search**: Search for books by Book ID.
 - **Issue Book**: Issue a book to a borrower with details such as book ID, book name, borrower ID, issue date, and due date.
@@ -14,22 +14,22 @@ This is a simple Library Management System built using Java Swing (NetBeans) for
 - **Students and Staff Records**: Maintain records of students and staff, including personal details and issued books.
 - **Database Integration**: MySQL for storing and retrieving book and transaction data.
   
-## Technologies Used
+## 💻Technologies Used
 
 - **Java (Swing)**: Used for creating the GUI components.
 - **NetBeans**: Integrated development environment (IDE) for developing the Java application.
 - **MySQL**: Relational database management system (RDBMS) for managing book and transaction data.
 
-## User Interface 
+## 🔮User Interface 
 ![Image](https://github.com/user-attachments/assets/173f3d4d-b839-4fa7-b3df-a756ce2fedba)
 
 ![Image](https://github.com/user-attachments/assets/85caf0f3-78da-4a90-a43b-24492b7b9b03)
 
-## Database Setup
+## 🪄Database Setup
 
 Ensure MySQL is installed and running on your local machine. The database schema is designed with tables for books, transactions, students, and staff.
 
-### SQL Schema
+### 💫SQL Schema
 ```sql
 CREATE DATABASE library;
 
