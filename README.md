@@ -25,6 +25,11 @@ This is a simple Library Management System built using Java Swing (NetBeans) for
 
 ![Image](https://github.com/user-attachments/assets/85caf0f3-78da-4a90-a43b-24492b7b9b03)
 
+## 🎥 Project Demo
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1WHKz5JxeWApS331atkhlLPprDQHeFTxE/view?usp=drive_link)
+
+
 ## 🪄Database Setup
 
 Ensure MySQL is installed and running on your local machine. The database schema is designed with tables for books, transactions, students, and staff.
